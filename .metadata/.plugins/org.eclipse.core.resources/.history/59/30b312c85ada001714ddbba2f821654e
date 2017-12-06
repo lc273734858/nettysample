@@ -1,0 +1,5 @@
+package nettysample.nettyapp;
+
+public class NettyServer {
+
+}
